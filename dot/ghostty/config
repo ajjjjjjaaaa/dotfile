@@ -1,0 +1,12 @@
+
+# Window Settings
+
+window-decoration = false
+window-padding-x = 5
+window-padding-y = 5
+theme = GruvboxDark
+font-family = "Iosevka Nerd Font"
+
+# Shell
+
+command = /usr/bin/fish
