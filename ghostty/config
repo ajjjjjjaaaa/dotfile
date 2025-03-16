@@ -1,0 +1,13 @@
+title = term
+command = /usr/bin/fish
+clipboard-read = allow
+clipboard-write = allow
+copy-on-select = true
+window-theme = dark
+window-padding-x = 5
+window-padding-y = 5
+background-opacity = 1.0
+theme = GruvboxDark
+font-size = 12
+font-family = Iosevka Nerd Font
+gtk-titlebar = false
